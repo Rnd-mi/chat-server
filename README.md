@@ -1,4 +1,4 @@
-# chat-server
+# Chat server
 Simple educational server representing chat
 
 To try this out you need:
