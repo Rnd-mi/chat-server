@@ -2,9 +2,10 @@
 Simple educational server representing chat
 
 To try this out you need:
-1. start server
-2. go localhost:8080
-3. go localhost:8080 in another browser or use incognito mode
+1. download project and unzip it
+2. run server.jar in project folder or in IDEA
+3. go localhost:8080
+4. go localhost:8080 in another browser or use incognito mode
 
 Then you can type your name in the upper field, message in the field below and press "Send!"
 
